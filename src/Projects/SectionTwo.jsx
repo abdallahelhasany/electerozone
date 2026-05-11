@@ -34,22 +34,22 @@ function SectionTwo() {
                   </span>
                 </div>
                 <div className="flex justify-between items-center mt-6">
-                  <a
-                    href="#"
-                    target="_blank"
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="View Code"
                   >
                     <i data-lucide="github" />
                     <span>View Code</span>
-                  </a>
-                  <a
-                    href="#"
-                    target="_blank"
+                  </button>
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="Live Demo"
                   >
                     <i data-lucide="external-link" />
                     <span>Live Demo</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
@@ -78,22 +78,22 @@ function SectionTwo() {
                   </span>
                 </div>
                 <div className="flex justify-between items-center mt-6">
-                  <a
-                    href="#"
-                    target="_blank"
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="View Code"
                   >
                     <i data-lucide="github" />
                     <span>View Code</span>
-                  </a>
-                  <a
-                    href="#"
-                    target="_blank"
+                  </button>
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="Live Demo"
                   >
                     <i data-lucide="external-link" />
                     <span>Live Demo</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>
@@ -122,22 +122,22 @@ function SectionTwo() {
                   </span>
                 </div>
                 <div className="flex justify-between items-center mt-6">
-                  <a
-                    href="#"
-                    target="_blank"
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="View Code"
                   >
                     <i data-lucide="github" />
                     <span>View Code</span>
-                  </a>
-                  <a
-                    href="#"
-                    target="_blank"
+                  </button>
+                  <button
+                    type="button"
                     className="text-[#0084ff] hover:text-[#ff9100] flex items-center gap-2"
+                    aria-label="Live Demo"
                   >
                     <i data-lucide="external-link" />
                     <span>Live Demo</span>
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>

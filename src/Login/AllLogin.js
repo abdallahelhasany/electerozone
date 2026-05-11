@@ -1,7 +1,6 @@
 import React from "react";
 import Login from "./Login";
-import AllComponents from "../Components/AllComponents";
-import Footer from "../Home/Footer";
+// Removed unused imports
 import AllBackground from "./Background";
 
 function AllLogin() {
