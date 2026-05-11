@@ -11,13 +11,13 @@ function Footer() {
               <a href="/">Home</a>
               <a href="/services">Services</a>
               <a href="/projects">Projects</a>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
-              <a href="#">Documentation</a>
+              <a href="/">Privacy Policy</a>
+              <a href="/">Terms of Service</a>
+              <a href="/">Documentation</a>
               <a
                 href="https://github.com/el7asanyy"
                 target="_blank"
-                rel="noopener"
+                rel="nofollow noopener noreferrer"
               >
                 GitHub
               </a>
