@@ -62,6 +62,7 @@ function AllNavbar() {
                 href="https://github.com/el7asanyy"
                 target="_blank"
                 className="external-link"
+                rel="noreferrer noopener"
               >
                 GitHub
               </a>
@@ -164,6 +165,7 @@ function AllNavbar() {
             href="https://github.com/el7asanyy"
             target="_blank"
             className="external-link"
+            rel="noreferrer noopener"
             onClick={closeMobileMenu}
           >
             GitHub
